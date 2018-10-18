@@ -1,0 +1,16 @@
+NerdTREE :
+# ouvrir nerdtree
+:NERDTree
+# l'aide de nerd tree
+:help NERD_Tree
+# ouvrir un fichier ou repertoire
+oo
+# apercu fichier
+go
+# executer fichier
+!
+
+Tabular :
+# exemple basique
+:Tab /:
+
